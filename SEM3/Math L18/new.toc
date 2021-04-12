@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Power Series REV}{1}{}%
+\contentsline {subsection}{\numberline {1.1}How to get R}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Interval of convergence}{1}{}%
+\contentsline {subsection}{\numberline {1.3}Term by term summation}{2}{}%
+\contentsline {subsection}{\numberline {1.4}term by term differentiation}{2}{}%
+\contentsline {subsection}{\numberline {1.5}series expansions of basic functions}{2}{}%
+\contentsline {subsection}{\numberline {1.6}Re-indexing sums}{2}{}%
+\contentsline {section}{\numberline {2}Solving ODEs using power series method}{3}{}%
